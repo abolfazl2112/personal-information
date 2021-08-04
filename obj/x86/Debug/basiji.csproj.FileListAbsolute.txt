@@ -1,0 +1,495 @@
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\basiji.Form1.resources
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\basiji.logon.resources
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\basiji.Properties.Resources.resources
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\basiji.sabtefaaliat.resources
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\basiji.sazmandehi.resources
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\basiji.veroozane_list.resources
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\bin\Debug\basiji.exe
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\bin\Debug\basiji.pdb
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\basiji.exe
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\basiji.pdb
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\bin\Debug\VistaClockPersian.dll
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\obj\x86\Debug\basiji.setup.resources
+C:\Users\abolfazl\documents\visual studio 2010\Projects\basiji\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\abolfazl\documents\visual studio 2010\Projects\basiji\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\abolfazl\documents\visual studio 2010\Projects\basiji\basiji\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\abolfazl\documents\visual studio 2010\Projects\basiji\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\abolfazl\documents\visual studio 2010\Projects\basiji\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\abolfazl\documents\visual studio 2010\Projects\basiji\basiji\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\bin\Debug\Stimulsoft.Base.dll
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\bin\Debug\Stimulsoft.Report.dll
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\bin\Debug\Stimulsoft.Base.xml
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\bin\Debug\Stimulsoft.Report.xml
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\basiji\basiji\bin\Debug\PopupControl.dll
+E:\basiji\basiji\obj\x86\Debug\basiji.exe
+E:\basiji\basiji\obj\x86\Debug\basiji.pdb
+E:\basiji\basiji\bin\Debug\basiji.exe
+E:\basiji\basiji\bin\Debug\basiji.pdb
+E:\basiji\basiji\bin\Debug\Stimulsoft.Base.dll
+E:\basiji\basiji\bin\Debug\Stimulsoft.Report.dll
+E:\basiji\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+E:\basiji\basiji\bin\Debug\VistaClockPersian.dll
+E:\basiji\basiji\bin\Debug\PopupControl.dll
+E:\basiji\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\basiji\basiji\bin\Debug\Stimulsoft.Controls.dll
+E:\basiji\basiji\bin\Debug\Stimulsoft.Base.xml
+E:\basiji\basiji\bin\Debug\Stimulsoft.Report.xml
+E:\basiji\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+E:\basiji\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\basiji\basiji\bin\Debug\Stimulsoft.Controls.xml
+E:\basiji\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\basiji\basiji\obj\x86\Debug\basiji.Form1.resources
+E:\basiji\basiji\obj\x86\Debug\basiji.logon.resources
+E:\basiji\basiji\obj\x86\Debug\basiji.Properties.Resources.resources
+E:\basiji\basiji\obj\x86\Debug\basiji.sabtefaaliat.resources
+E:\basiji\basiji\obj\x86\Debug\basiji.sazmandehi.resources
+E:\basiji\basiji\obj\x86\Debug\basiji.setup.resources
+E:\basiji\basiji\obj\x86\Debug\basiji.veroozane_list.resources
+E:\basiji\basiji\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\basiji\basiji\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\basiji\basiji\obj\x86\Debug\basiji.importExel.resources
+E:\basiji\basiji\obj\x86\Debug\basiji.user.resources
+E:\basiji\basiji\obj\x86\Debug\basiji.reportOzv.resources
+E:\basiji\basiji\obj\x86\Debug\basiji.changPass.resources
+E:\basiji\basiji\obj\x86\Debug\basiji.درباره.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.exe
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.pdb
+E:\basiji-Finall\basiji\bin\Debug\basiji.exe
+E:\basiji-Finall\basiji\bin\Debug\basiji.pdb
+E:\basiji-Finall\basiji\bin\Debug\Stimulsoft.Base.dll
+E:\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.dll
+E:\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+E:\basiji-Finall\basiji\bin\Debug\VistaClockPersian.dll
+E:\basiji-Finall\basiji\bin\Debug\PopupControl.dll
+E:\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.dll
+E:\basiji-Finall\basiji\bin\Debug\Stimulsoft.Base.xml
+E:\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.xml
+E:\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+E:\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.xml
+E:\basiji-Finall\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.درباره.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.changPass.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.Form1.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.importExel.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.logon.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.Properties.Resources.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.reportOzv.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.sabtefaaliat.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.sazmandehi.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.setup.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.user.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\basiji.veroozane_list.resources
+E:\basiji-Finall\basiji\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\basiji-Finall\basiji\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.exe
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.pdb
+E:\basiji\basiji-Finall\basiji\bin\Debug\basiji.exe
+E:\basiji\basiji-Finall\basiji\bin\Debug\basiji.pdb
+E:\basiji\basiji-Finall\basiji\bin\Debug\Stimulsoft.Base.dll
+E:\basiji\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.dll
+E:\basiji\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+E:\basiji\basiji-Finall\basiji\bin\Debug\VistaClockPersian.dll
+E:\basiji\basiji-Finall\basiji\bin\Debug\PopupControl.dll
+E:\basiji\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\basiji\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.dll
+E:\basiji\basiji-Finall\basiji\bin\Debug\Stimulsoft.Base.xml
+E:\basiji\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.xml
+E:\basiji\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+E:\basiji\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\basiji\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.xml
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.درباره.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.changPass.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.Form1.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.importExel.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.logon.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.Properties.Resources.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.reportOzv.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.sabtefaaliat.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.sazmandehi.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.setup.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.user.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\basiji.veroozane_list.resources
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\basiji\basiji-Finall\basiji\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.exe
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.pdb
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\basiji.exe
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\basiji.pdb
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\Stimulsoft.Base.dll
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.dll
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\VistaClockPersian.dll
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\PopupControl.dll
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\Stimulsoft.Base.xml
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.xml
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.درباره.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.changPass.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.Form1.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.importExel.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.logon.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.Properties.Resources.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.reportOzv.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.sabtefaaliat.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.sazmandehi.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.setup.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.user.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\basiji.veroozane_list.resources
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\abolfazl\Desktop\basiji-Finall\basiji\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.exe
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.pdb
+E:\111111111\basiji-Finall\basiji\bin\Debug\basiji.exe
+E:\111111111\basiji-Finall\basiji\bin\Debug\basiji.pdb
+E:\111111111\basiji-Finall\basiji\bin\Debug\VistaClockPersian.dll
+E:\111111111\basiji-Finall\basiji\bin\Debug\PopupControl.dll
+E:\111111111\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\111111111\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.dll
+E:\111111111\basiji-Finall\basiji\bin\Debug\Stimulsoft.Base.xml
+E:\111111111\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.xml
+E:\111111111\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+E:\111111111\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\111111111\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.xml
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.درباره.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.changPass.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.Form1.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.importExel.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.logon.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.Properties.Resources.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.reportOzv.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.sabtefaaliat.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.sazmandehi.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.setup.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.user.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\basiji.veroozane_list.resources
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\111111111\basiji-Finall\basiji\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.exe
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.pdb
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\bin\Debug\basiji.exe
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\bin\Debug\basiji.pdb
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\bin\Debug\VistaClockPersian.dll
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\bin\Debug\PopupControl.dll
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.dll
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\bin\Debug\Stimulsoft.Base.xml
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.xml
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\bin\Debug\Stimulsoft.Controls.xml
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.درباره.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.changPass.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.Form1.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.importExel.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.logon.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.Properties.Resources.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.reportOzv.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.sabtefaaliat.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.sazmandehi.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.setup.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.user.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\basiji.veroozane_list.resources
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\project\project\C#\c#\New\01 My\basiji-Finall\basiji\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\project\project\C#\c#\project TOP C#\01 My Design\نرم افزارهای من\basiji-Finall\basiji\obj\x86\Debug\basiji.exe
+E:\project\project\C#\c#\project TOP C#\01 My Design\نرم افزارهای من\basiji-Finall\basiji\obj\x86\Debug\basiji.pdb
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.exe
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.pdb
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.exe
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.pdb
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\basiji.exe
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\basiji.pdb
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Base.dll
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Report.dll
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Controls.dll
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Base.xml
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Report.xml
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Controls.xml
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.درباره.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.changPass.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.Form1.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.importExel.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.logon.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.Properties.Resources.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.reportOzv.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.sabtefaaliat.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.sazmandehi.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.setup.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.user.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.veroozane_list.resources
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.exe
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.pdb
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\basiji.exe
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\basiji.pdb
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Base.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Report.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\PopupControl.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Controls.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Base.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Report.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\Stimulsoft.Controls.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.درباره.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.changPass.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.Form1.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.importExel.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.logon.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.Properties.Resources.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.reportOzv.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.sabtefaaliat.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.sazmandehi.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.setup.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.user.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.veroozane_list.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\bin\Debug\DateBox.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.Frmbackup.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.frmRestor.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.rpt_enteghal.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.rpt_dore.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان\basiji\obj\x86\Debug\basiji.rpt_mini.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.exe
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.pdb
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.changPass.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.Form1.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.Frmbackup.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.frmRestor.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.importExel.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.logon.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.Properties.Resources.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.reportOzv.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.rpt_dore.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.rpt_enteghal.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.rpt_mini.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.sabtefaaliat.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.sazmandehi.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.setup.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.user.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.veroozane_list.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\basiji.exe
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\basiji.pdb
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\DateBox.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\Stimulsoft.Base.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\Stimulsoft.Report.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\Stimulsoft.Controls.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\Stimulsoft.Base.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\Stimulsoft.Report.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\Stimulsoft.Controls.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.about.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\obj\x86\Debug\basiji.active.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت سوابق بسیجیان نسخه 2\basiji\bin\Debug\basiji.exe.config
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\basiji.exe.config
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.exe
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.pdb
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\basiji.exe
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\basiji.pdb
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Base.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Report.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Controls.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Base.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Report.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Controls.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.about.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.active.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.changPass.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.Form1.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.Frmbackup.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.frmRestor.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.importExel.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.logon.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.Properties.Resources.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.reportOzv.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.rpt_dore.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.rpt_enteghal.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.rpt_mini.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.sabtefaaliat.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.sazmandehi.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.setup.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.user.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.veroozane_list.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.sendPre.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.sms.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Report.Design.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Editor.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Report.Check.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Report.Helper.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Report.Design.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Editor.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Report.Check.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\Stimulsoft.Report.Helper.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.activeSms.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.rpt_Darkhast.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.rpt_davat.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.rpt.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.rptKasr.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.rpt_govahi.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\DevComponents.DotNetBar2.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\DevComponents.Instrumentation.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\DevComponents.DotNetBar2.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\DevComponents.Instrumentation.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\bin\Debug\MaskedDateBox.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.frm_rpt2.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.frmrptraked.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.frmRptEstelam.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\سیستم ثبت سوابق بسیجیان نسخه 2 + کرک شده\basiji\obj\x86\Debug\basiji.frmRptvaj.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\DevComponents.DotNetBar2.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\DevComponents.Instrumentation.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Base.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Report.Design.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Report.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Controls.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Editor.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Report.Check.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Report.Helper.dll
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\DevComponents.DotNetBar2.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\DevComponents.Instrumentation.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Base.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Report.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Report.Design.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Controls.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Editor.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Report.Check.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\Stimulsoft.Report.Helper.xml
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\personel.exe.config
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.about.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.Frmbackup.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.frmRestor.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.importExel.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.logon.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.Properties.Resources.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.veroozane_list.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\personel.exe
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\bin\Debug\personel.pdb
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.exe
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.pdb
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.F_AddEditPerson.resources
+E:\project\C#########\در دست طراحی\سیستم ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.F_ChangePassword.resources
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص\basiji\bin\Debug\personel.exe.config
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.exe
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص\basiji\obj\x86\Debug\personel.pdb
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\personel.exe.config
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.exe
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.pdb
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\personel.exe
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.DotNetBar2.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.Instrumentation.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Base.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Design.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Controls.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Editor.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Check.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Helper.dll
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.DotNetBar2.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.Instrumentation.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Base.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Design.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Controls.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Editor.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Check.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Helper.xml
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.about.resources
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.Frmbackup.resources
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.frmRestor.resources
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.F_AddEditPerson.resources
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.F_ChangePassword.resources
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.importExel.resources
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.logon.resources
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.Properties.Resources.resources
+E:\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.veroozane_list.resources
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\personel.exe.config
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.exe
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.pdb
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\personel.exe
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.DotNetBar2.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.Instrumentation.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Base.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Design.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Win.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Controls.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Controls.Win.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Editor.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Check.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Helper.dll
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.DotNetBar2.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\DevComponents.Instrumentation.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Base.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Design.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Win.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Controls.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Controls.Win.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Editor.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Check.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\Stimulsoft.Report.Helper.xml
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\basiji.csprojResolveAssemblyReference.cache
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.about.resources
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.Frmbackup.resources
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.frmRestor.resources
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.F_AddEditPerson.resources
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.F_ChangePassword.resources
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.importExel.resources
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.logon.resources
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.Properties.Resources.resources
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\personel.veroozane_list.resources
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\obj\x86\Debug\basiji.csproj.GenerateResource.Cache
+L:\laptop\project\C#########\در دست طراحی\نرم افزار ثبت اطلاعات اشخاص - خطیب\basiji\bin\Debug\personel.pdb
